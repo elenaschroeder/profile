@@ -6,6 +6,7 @@ body {
   margin: 0 auto;
   width: 400px;
   box-shadow: px 6px lightgrey;
+  text-align: center;
 }
 
 h1 {
@@ -45,8 +46,10 @@ a {
   color: #51c4d3;
   text-decoration: none;
 }
+
 a:hover {
   color: #132c33;
+  transition-delay: 4s;
 }
 
 .container {
@@ -54,6 +57,7 @@ a:hover {
   position: relative;
   border-radius: 2%;
   display: block;
+  text-align: center;
 }
 
 .card-white {
@@ -66,12 +70,12 @@ a:hover {
 }
 
 .button {
-  background: white;
   padding: 20px;
   border: 1px solid lightgrey;
   position: relative;
   margin: 20px 0;
   border-radius: 15px;
+  background-color: #126e82;
 }
 
 .links {
