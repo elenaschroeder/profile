@@ -34,6 +34,14 @@ h1 {
   font-weight: 400;
  }
 
+h4 {
+   font-family: 'Farro', sans-serif;
+  color: #132c33;
+  font-size: 15px;
+  line-height: 50px;
+  font-weight: 400;
+}
+  
 p {
   font-family: 'Farro', sans-serif;
   font-size: 15px;
